@@ -1,0 +1,19 @@
+# Django project files
+*.pyc
+*.pyo
+__pycache__/
+
+# Development/build files
+*.env
+*.log
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+
+# Virtual environment
+venv/
+env/
+
